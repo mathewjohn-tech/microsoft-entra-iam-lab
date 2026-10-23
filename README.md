@@ -89,5 +89,14 @@ It demonstrated how Microsoft Entra ID can serve as an identity provider for SAM
 - Document identity lifecycle management procedures
 
 ---
+**## Project Screenshots
 
+### Security Groups
+![Security Groups](screenshots/security-groups.png)
+
+### Successful SAML SSO Authentication
+![Successful SAML SSO](screenshots/sso-success.png)
+
+### Access Denied — Unauthorized User
+![Access Denied](screenshots/access-denied.png)**
 **Disclaimer:** This project was completed in a personal lab using fictional employee identities. It does not represent a production deployment.
